@@ -47,4 +47,3 @@ public class FastScanner implements Closeable {
         stringTokenizer = null;
     }
 }
-
